@@ -16,7 +16,7 @@ htmlファイルに、
 
 #ファイル構成
 Simple-clock/
-├── index.html
+├── test.html
 ├── main.js
 ├── first-Module.js
 ├── style.css
