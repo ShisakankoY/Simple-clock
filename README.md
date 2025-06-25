@@ -10,5 +10,18 @@ htmlファイルに、
   <span id="clock" class="x"></span>
 </div>
 を追加し、また、style.cssを指定してください。
-また、
+そして、
+<script type="module" src="https://shisakankoy.github.io/Simple-clock/main.js"></script>
+も追加してください。
+
+#ファイル構成
+Simple-clock/
+├── index.html
+├── main.js
+├── first-Module.js
+├── style.css
+└── README.md
+
+#作者
+指差喚呼Y
 
