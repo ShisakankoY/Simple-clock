@@ -7,9 +7,9 @@ Simple-clock(for Japanese)
 
 #使い方
 htmlファイルに、
-<div class="wrapper">
-  <span id="hi" class="x"></span>
-  <span id="clock" class="x"></span>
+<div id="y">
+  <span id="hi"></span>
+  <span id="clock"></span>
 </div>
 を追加してください。
 そして、
