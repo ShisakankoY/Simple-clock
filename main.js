@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
         textAlign: 'center',
         display: 'block',
         width: 'max-content',
-        paddingLeft: '65px'
+        paddingLeft: '50px'
     })
 
     Object.assign(hinichi.style, {
