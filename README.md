@@ -21,7 +21,6 @@ Simple-clock/
 ├── test.html
 ├── main.js
 ├── first-Module.js
-├── style.css
 └── README.md
 
 #作者
