@@ -6,7 +6,7 @@ Simple-clock(for Japanese)
 #使い方 htmlファイルに、
 
 を追加し、また、style.cssを指定してください。 そして、 <script type="module" src="https://shisakankoy.github.io/Simple-clock/main.js"></script> も追加してください。
-#ファイル構成 Simple-clock/ ├── test.html ├── main.js ├── first-Module.js ├── style.css └── README.md
+#ファイル構成 Simple-clock/ ├── test.html ├── main.js ├── first-Module.js └── README.md
 
 #作者 指差喚呼Y
 =======
