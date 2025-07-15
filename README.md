@@ -7,13 +7,17 @@ Simple-clock(for Japanese)
 
 #使い方
 htmlファイルに、
+```
 <div id="y">
   <span id="hi"></span>
   <span id="clock"></span>
 </div>
+```
 を追加してください。
 そして、
+```
 <script type="module" src="https://shisakankoy.github.io/Simple-clock/main.js"></script>
+```
 も追加してください。
 
 #ファイル構成
