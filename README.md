@@ -25,7 +25,9 @@ Simple-clock/
 ├── test.html
 ├── main.js
 ├── first-Module.js
-└── README.md
+├── README.md
+└── LICENSE
+
 
 #作者
 指差喚呼Y
